@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1573218905297,
+  "timestamp": 1573219089389,
   "index": "https://github.com/radhey1007/pwa-demo.git/index.html",
   "assetGroups": [
     {
@@ -62,7 +62,7 @@
     "https://github.com/radhey1007/pwa-demo.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://github.com/radhey1007/pwa-demo.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://github.com/radhey1007/pwa-demo.git/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://github.com/radhey1007/pwa-demo.git/index.html": "0b15bdb74fe7c3b69769dbc18a03d2f8c223d4de",
+    "https://github.com/radhey1007/pwa-demo.git/index.html": "eff5f834dc1af092b0b1f82bda68cc65cab5f0b8",
     "https://github.com/radhey1007/pwa-demo.git/main-es2015.43c0140f04304ba4a099.js": "9c9ee7a2cf9fbacab9f36bcbff96c97a270287a8",
     "https://github.com/radhey1007/pwa-demo.git/main-es5.86f2b3b3c4f17ccf6c6a.js": "685a1376866c873c87e0f90575963a8a85f19d9b",
     "https://github.com/radhey1007/pwa-demo.git/polyfills-es2015.d08b2846b0483deb576c.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
